@@ -1,0 +1,18 @@
+Buatlah website portofolio dengan ketentuan:
+
+1. Halaman Home (dilanjutkan dari yang sebelumnya)
+- Navbar
+- Welcoming section
+- button/ image/ teks yang akan diisi hyperlink "explore portofolio" (mengarah ke halaman lain nantinya) 
+- Footer
+
+2. Profile
+- Navbar
+- Profile seperti CV (Silahkan cari contoh CV)
+- Footer
+
+Silahkan angkat tangan jika sudah, tidak ada jadwal UTS.
+
+Jika hari ini belum selesai, silahkan cari saya sebelum minggu UTS selesai. Minus 5 poin untuk nilai UTSnya per 1 minggu keterlambatan
+
+ketentuan sudah ada di e-Learning juga..
